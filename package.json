@@ -1,0 +1,17 @@
+{
+  "name": "seek-salary-finder",
+  "version": "0.1.0",
+  "description": "Seek.com.au salary digger",
+  "scripts": {
+    "dig": "node bin/seek-salary-digger"
+  },
+  "keywords": [
+    "Seek.com.au",
+    "Job search"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.1.1"
+  }
+}
